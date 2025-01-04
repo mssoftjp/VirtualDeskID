@@ -1,6 +1,7 @@
 - Copyright © 2025 Musashino Software. All rights reserved.
 - Musashino Software retains the copyright of VirtualDeskID.
 
-- VirtualDesktopID is free software. You may use it freely for both personal and commercial purposes.
-- As long as it includes all the files necessary for VirtualDesktopID to run, you are free to copy and distribute it in any form.
-- Although the software has been tested, issues may still arise depending on your computer environment or program bugs. Please note that the author cannot be held responsible for any damages incurred as a result.
+- VirtualDeskID is provided free of charge in binary form only, for both personal and commercial use. 
+- You may copy and distribute it in any form, as long as all the necessary files for running VirtualDeskID are included.
+- Please note that the source code is not publicly available, and that this software is provided “AS IS” without any warranty. While it has been tested, issues may still arise depending on your computing environment or program bugs. The author disclaims all liability for any damages that may result from its use.
+- This software includes third-party code. For more information, please refer to the NOTICE(THIRD PARTY LICENSE) file.
