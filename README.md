@@ -22,7 +22,7 @@
 
 ## 使い方
 
-1. **VirtualDisplayID.exe を実行**  
+1. **VirtualDeskID.exe を実行**  
     起動すると、タスクトレイにアプリケーションのアイコンが表示されます。必要に応じて Windows 側の設定でアイコンが常に表示されるように調整してください。
     
 2. **バーチャルデスクトップ番号の確認**
@@ -70,7 +70,7 @@ Because **VirtualDesktopManager**, known for its virtual desktop solutions, does
 
 ## Usage
 
-1. **Run VirtualDisplayID.exe**  
+1. **Run VirtualDeskID.exe**  
     After launching, an icon will appear in the task tray. If desired, configure Windows settings so that the icon is always displayed.
     
 2. **Check the virtual desktop number**
